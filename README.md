@@ -1,6 +1,6 @@
 # EduCompress: The Ultimate Presentation Video Compressor
 
-Welcome to [EduCompress](EduCompress.exe), the efficient and user-friendly application designed specifically for educators, students, and professionals. The drag & drop interface simplifies the process of compressing presentation videos without sacrificing quality.
+Welcome to [EduCompress](EduCompress-V1.1.0), the efficient and user-friendly application designed specifically for educators, students, and professionals. The drag & drop interface simplifies the process of compressing presentation videos without sacrificing quality.
 
 ## Key Features:
 
