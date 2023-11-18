@@ -28,4 +28,4 @@ EduCompress is your go-to tool for making presentation sharing as seamless as po
 
 - For inquiries or support, reach out to me at: gergo.gyori@gmail.com
 
-If you appreciate EduCompress and would like to support the project, consider [buying me a coffee] (https://www.buymeacoffee.com/savpank)
+If you appreciate EduCompress and would like to support the project, consider [buying me a coffee](https://www.buymeacoffee.com/savpank)
