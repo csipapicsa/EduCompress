@@ -1,6 +1,6 @@
 # EduCompress: The Ultimate Presentation Video Compressor
 
-Welcome to [EduCompress](EduCompress-V1.1.0), the efficient and user-friendly application designed specifically for educators, students, and professionals. The drag & drop interface simplifies the process of compressing presentation videos without sacrificing quality.
+Welcome to [EduCompress](EduCompress-V1.1.1.exe), the efficient and user-friendly application designed specifically for educators, students, and professionals. The drag & drop interface simplifies the process of compressing presentation videos without sacrificing quality.
 
 ## Key Features:
 
@@ -24,8 +24,22 @@ EduCompress is your go-to tool for making presentation sharing as seamless as po
 
 - EduCompress utilizes `ffmpeg` for video processing. Learn more about it [here](https://www.ffmpeg.org/).
 
+### Compatibility
+
+EduCompress is designed to work with Windows 64-bit systems. Compatibility with other operating systems or versions is not currently available but may be considered for future updates.
+
+#### Supported Operating Systems:
+- Windows 64-bit
+
+#### Not Currently Supported:
+- Windows 32-bit
+- macOS
+- Linux
+
 ## Additional Information
 
-- For inquiries or support, reach out to me at: `gergo gyori gmail`
+If you are interested in seeing EduCompress on one of the unsupported platforms, or if you're experiencing issues on a supported system, please let us know. Your feedback is valuable and can help prioritize development efforts. You can reach out for inquiries, support, or to express your interest in a specific version by emailing: `gergo gyori gmail`.
 
-If you appreciate EduCompress and would like to support the project, consider [buying me a coffee](https://www.buymeacoffee.com/savpank)
+For developers or enthusiastic users who would like to contribute to expanding the compatibility of EduCompress, we welcome pull requests and community contributions on our GitHub repository.
+
+Your support and contributions make a significant difference in the growth and improvement of EduCompress. If you find this tool helpful and would like to support its development, consider [buying me a coffee](https://www.buymeacoffee.com/savpank). Every coffee fuels more hours of open-source development!
