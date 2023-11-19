@@ -8,7 +8,7 @@ Welcome to [EduCompress](EduCompress-V1.1.1.exe), the efficient and user-friendl
 
 - **🙂Drag & Drop Simplicity**: No complex settings to navigate. Just drag your video onto the app, and EduCompress takes care of the rest.
 
-![](example_videos/program.gif)
+![how-to-use](example_videos/program.gif)
 
 - **📊 🎓Tailored for Education**: Whether it's for online learning, archiving, or distribution, make your large lecture files manageable and easily accessible.
 
