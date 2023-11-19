@@ -68,6 +68,4 @@ EduCompress is designed to work with Windows 64-bit systems. Compatibility with 
 
 If you are interested in seeing EduCompress on one of the unsupported platforms, or if you're experiencing issues on a supported system, please let us know. Your feedback is valuable and can help prioritize development efforts. You can reach out for inquiries, support, or to express your interest in a specific version by emailing: `gergo gyori gmail`.
 
-For developers or enthusiastic users who would like to contribute to expanding the compatibility of EduCompress, we welcome pull requests and community contributions on our GitHub repository.
-
-Your support and contributions make a significant difference in the growth and improvement of EduCompress. If you find this tool helpful and would like to support its development, consider [buying me a coffee](https://www.buymeacoffee.com/savpank). Every coffee fuels more hours of open-source development!
+Your support and contributions make a significant difference in the growth and improvement of EduCompress. If you find this tool helpful and would like to support its development, consider [buying me a coffee](https://www.buymeacoffee.com/savpank).
