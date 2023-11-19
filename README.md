@@ -2,13 +2,13 @@
 
 Welcome to [EduCompress](EduCompress-V1.1.1.exe), the efficient and user-friendly application designed specifically for educators, students, and professionals. The drag & drop interface simplifies the process of compressing presentation videos without sacrificing quality reaching 20-30 times more space saving than the original video.
 
-## Key Features:
+## ✅ Key Features:
 
-- **Superb Compression**: Shrink your lecture and presentation videos to 20-30 times smaller sizes with our advanced algorithm that maintains clarity at 5 frames per second, optimizing for slide-based content.
+- **🗜️ Superb Compression**: Shrink your lecture and presentation videos to 20-30 times smaller sizes with our advanced algorithm that maintains clarity at 5 frames per second, optimizing for slide-based content.
 
-- **Drag & Drop Simplicity**: No complex settings to navigate. Just drag your video onto the app, and EduCompress takes care of the rest.
+- **🙂Drag & Drop Simplicity**: No complex settings to navigate. Just drag your video onto the app, and EduCompress takes care of the rest.
 
-- **Tailored for Education**: Whether it's for online learning, archiving, or distribution, make your large lecture files manageable and easily accessible.
+- **📊 🎓Tailored for Education**: Whether it's for online learning, archiving, or distribution, make your large lecture files manageable and easily accessible.
 
 - **Space Saver**: Save valuable disk space and bandwidth, making it perfect for sharing over email or cloud services.
 
@@ -16,13 +16,13 @@ Welcome to [EduCompress](EduCompress-V1.1.1.exe), the efficient and user-friendl
 
 EduCompress is your go-to tool for making presentation sharing as seamless as possible. Give it a try and see just how easy video compression can be!
 
-## How to Use
+## ❓How to Use
 
 - Simply drag and drop your video file onto the app. The conversion starts immediately, saving the compressed video file in the same folder with the original name followed by an additional suffix to denote compression.
 
 - Your system will detect as a safety thread. Since code signiging costs between 200 - 500 USD / year, I have not included the signature in the app.
 
-### Important Notice Regarding Security Warnings
+### ⚠️ Important Notice Regarding Security Warnings
 
 When you download and run EduCompress, your operating system may flag it as a potential security threat. This is a standard warning for unsigned applications. Code signing certificates, which help to verify the authenticity of the software, typically cost between $200 - $500 per year. To keep EduCompress accessible and free, it is currently distributed without such a signature.
 
@@ -31,7 +31,7 @@ When you download and run EduCompress, your operating system may flag it as a po
 - It simply means that the application is not signed by a recognized Certificate Authority.
 - I assure you that EduCompress is developed with the utmost care for security and functionality.
 
-#### Bypassing the Warning
+#### Bypassing the Warning 
 - On Windows, you can choose to run the application anyway by clicking "More info" and then "Run anyway."
 - On macOS, you can open the application by right-clicking (or control-clicking) the app icon and selecting "Open."
 
