@@ -2,6 +2,23 @@
 
 Welcome to [EduCompress](EduCompress-V1.1.1.exe), the efficient and user-friendly application designed specifically for educators, students, and professionals. The drag & drop interface simplifies the process of compressing presentation videos without sacrificing quality reaching 20-30 times more space saving than the original video.
 
+
+ <table>
+  <tr>
+    <td>
+      <a href="https://www.buymeacoffee.com/savpank">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=savpank&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" style="width: 150px;"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.paypal.com/paypalme/gergogyori">
+        <img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="PayPal" style="width: 150px;"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## ✅ Key Features:
 
 - **🗜️ Superb Compression**: Shrink your lecture and presentation videos to 20-30 times smaller sizes with our advanced algorithm that maintains clarity at 5 frames per second, optimizing for slide-based content.
